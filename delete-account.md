@@ -21,7 +21,7 @@ Your account and all associated data will be permanently removed.
 If you’re unable to delete your account through the app, you can also request deletion by email.
 
 **Email us at:**  
-📧 `support@expertlink.app`  
+📧 `maniokhan2002@gmail.com`  
 Please use the subject line: **"Delete My Account"** and include the email or phone number used to register your account.
 
 We will process your request within 7 business days.
